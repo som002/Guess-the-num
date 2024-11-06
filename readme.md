@@ -49,3 +49,5 @@ Click the **"Again!"** button to start a new round with a fresh secret number an
 Good luck, and have fun guessing! 🤞
 
 Enjoy the game and try to guess the secret number before your score runs out! 😎
+
+followed tutorial of Jonas Schmedtmann
