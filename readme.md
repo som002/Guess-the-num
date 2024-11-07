@@ -1,5 +1,7 @@
 # 🎲 **Guess My Number!** 🎲
 
+ Website : (https://som002.github.io/Guess-the-num) 
+ 
 Welcome to the **Guess My Number** game! 🎉 This is a fun and simple game where you try to guess a secret number that the computer has randomly chosen. The secret number is between **1 and 20**, and you'll have to guess it in as few attempts as possible. 🚀
 
 ### 🎯 **Objective**
